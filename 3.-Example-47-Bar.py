@@ -1,10 +1,15 @@
-# Size and Shape Structural Optimization using (ECLPSO and GLS)
-# Enhanced Comprehensive Learning Particle Swarm Optimization and Gaussian Local Search
-# Developer: Soviphou Muong
-# Python version: 3.10
-# Year: 2021
-# Title: 47-bar Planar Truss Structure
-
+# ***************************************************************************************#
+""" Author:  Soviphou Muong, Ph.D Thu Huynh Van, Assoc. Prof. Sawekchai Tangaramvong 
+#   Emails:  thuxd11@gmail.com, Sawekchai.T@chula.ac.th
+#            Applied Mechanics and Structures Research Unit, Department of Civil Engineering, 
+#            Chulalongkorn University 
+#   https://scholar.google.com/citations?user=NysMfoAAAAAJ&hl=vi 
+# Research paper: Combined Enhanced Comprehensive Learning PSO and Gaussian Local
+# Search for Sizing and Shape Optimization of Truss Structures (2022) "Building"
+""" 
+# Reference: Thu Huynh Van, Sawekchai Tangaramvong (2022). Two-Phase ESO-CLPSO Method for the Optimal Design 
+# of Structures with Discrete Steel Sections. "Advances in Engineering Software". https://doi.org/10.1016/j.advengsoft.2022.103102
+# CLPSO code: https://github.com/thuchula6792/CLPSO
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -637,7 +642,7 @@ layout_var = np.array([[0, 0, 0, -1],
 ps = 20
 iter_max = 1500
 gls_iter = 1
-stress_limit = 20.05
+stress_limit = 20.00
 k_eff = 3.96
 run = 15
 
