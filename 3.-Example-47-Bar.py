@@ -641,7 +641,7 @@ layout_var = np.array([[0, 0, 0, -1],
 
 ps = 20
 iter_max = 1500
-gls_iter = 1
+gls_iter = 1000
 stress_limit = 20.00
 k_eff = 3.96
 run = 15
