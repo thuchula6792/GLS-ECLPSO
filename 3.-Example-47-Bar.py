@@ -1,6 +1,6 @@
 # ***************************************************************************************#
-""" Author:  Soviphou Muong, Ph.D Thu Huynh Van, Assoc. Prof. Sawekchai Tangaramvong 
-#   Emails:  thuxd11@gmail.com, Sawekchai.T@chula.ac.th
+""" Author:  Dr. Thu Huynh Van
+#   Emails:  thuxd11@gmail.com
 #            Applied Mechanics and Structures Research Unit, Department of Civil Engineering, 
 #            Chulalongkorn University 
 #   https://scholar.google.com/citations?user=NysMfoAAAAAJ&hl=vi 
